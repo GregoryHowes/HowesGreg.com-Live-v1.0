@@ -421,6 +421,11 @@ ol.type li a:hover {
 #blog .overlay {
 	padding: 120px 0 80px 0;
 	background: rgba(0, 0, 0, 0.6);
+	
+}
+#blog .overlayText {
+	background-color: rgba(50, 50, 50, 0.8);
+	text-align: justify;
 }
 #blog h2, #blog p {
 	color: #fff;
