@@ -426,6 +426,8 @@ ol.type li a:hover {
 #blog .overlayText {
 	background-color: rgba(50, 50, 50, 0.8);
 	text-align: justify;
+	padding: 50px;
+	border-radius: 25px;
 }
 #blog h2, #blog p {
 	color: #fff;
