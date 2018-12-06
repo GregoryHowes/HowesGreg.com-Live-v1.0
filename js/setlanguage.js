@@ -29,6 +29,14 @@ function setLanguage() {
         
         document.getElementById("IMPB").innerHTML =　"ウルトラロングトライアスロン - 9:49:40";
         document.getElementById("IMPBRace").innerHTML =　"五島列島国際トライアスロン 2018";
+
+        document.getElementById("myProfile").innerHTML = "２００１年のロンドンマラソンを完走のきっかけマラソンはずっと好きだった。\
+                                    それからフルマラソンは年に1回か2回ぐらいをチャレンジして、サブスリーは10回ぐらい出来た。\
+                                    2018年に第1回日本ウルトラロングディスタンストライアスロン選手権で2位だった。";
+                                
+
+
+                        
         
     } else {
         //set language toggle caption to Japanese
@@ -57,6 +65,12 @@ function setLanguage() {
 
         document.getElementById("IMPB").innerHTML =　"IM-distance triathlon - 9:49:40";
         document.getElementById("IMPBRace").innerHTML =　"Goto Nagasaki 2018";
+
+        document.getElementById("myProfile").innerHTML = "I have had a passion for running since completing my first full marathon, The London Marathon, way back in 2001. \
+             Since then I have completed one or two marathons per year, breaking three hours approximately ten times, and achieving a personal best of 2:42. \
+        In 2018 I placed 2nd overall in the Japanese Ultra-long Distance Triathlon National Championships.";
+
+        
 
     }
 }
