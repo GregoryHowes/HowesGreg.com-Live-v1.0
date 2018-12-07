@@ -30,9 +30,10 @@ function setLanguage() {
         document.getElementById("IMPB").innerHTML =　"ウルトラロングトライアスロン - 9:49:40";
         document.getElementById("IMPBRace").innerHTML =　"五島列島国際トライアスロン 2018";
 
-        document.getElementById("myProfile").innerHTML = "２００１年のロンドンマラソンを完走のきっかけマラソンはずっと好きだった。\
+        document.getElementById("myProfile").innerHTML = "２００１年のロンドンマラソンを完走のきっかけマラソンはずっと大好きだった。\
                                     それからフルマラソンは年に1回か2回ぐらいをチャレンジして、サブスリーは10回ぐらい出来た。\
-                                    2018年に第1回日本ウルトラロングディスタンストライアスロン選手権で2位だった。";
+                                    2018年に第1回日本ウルトラロングディスタンストライアスロン選手権で2位だった。\
+                                    今からコナを目指そう！";
                                 
 
 
