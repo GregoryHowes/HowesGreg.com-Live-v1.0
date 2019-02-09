@@ -89,6 +89,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
+
+.modal-header, .modal-body, .modal-footer
+ {
+	 background-color: rgba(50, 50, 50, 0.8);
+	 color: white;
+	 text-align: justify;
+ }
 /* Navigation */
 #menu {
 	padding: 20px;
