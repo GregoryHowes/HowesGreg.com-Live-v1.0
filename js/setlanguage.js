@@ -9,7 +9,7 @@ function setLanguage() {
         document.getElementById("myName").innerHTML = "ハウズ　グレッグ";
         document.getElementById("myNameNavbar").innerHTML = "ハウズ　グレッグ";
         document.getElementById("aboutMeNav").innerHTML =　"プロフィール";
-        document.getElementById("trainingNav").innerHTML =　"トレーニング";
+        document.getElementById("trainingNav").innerHTML =　"コーチング";
         document.getElementById("galleryNav").innerHTML =　"写真";
         document.getElementById("blogNav").innerHTML =　"ブログ";
         document.getElementById("contactNav").innerHTML =　"お問い合わせ";
@@ -46,7 +46,7 @@ function setLanguage() {
         document.getElementById("myName").innerHTML = "Greg Howes";
         document.getElementById("myNameNavbar").innerHTML = "Greg Howes";
         document.getElementById("aboutMeNav").innerHTML =　"About me";
-        document.getElementById("trainingNav").innerHTML =　"Training";
+        document.getElementById("trainingNav").innerHTML =　"Coaching";
         document.getElementById("galleryNav").innerHTML =　"Gallery";
         document.getElementById("blogNav").innerHTML =　"Blog";
         document.getElementById("contactNav").innerHTML =　"Contact";
