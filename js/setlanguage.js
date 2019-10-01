@@ -18,8 +18,8 @@ function setLanguage() {
 
         document.getElementById("PBs").innerHTML = "記録";
 
-        document.getElementById("marathonPB").innerHTML =　"フルマラソン - 2:42:31";
-        document.getElementById("marathonPBRace").innerHTML =　"熊本城マラソン 2015";
+        document.getElementById("marathonPB").innerHTML =　"フルマラソン - 2:39:03";
+        document.getElementById("marathonPBRace").innerHTML =　"熊本城マラソン 2019";
         
         document.getElementById("halfPB").innerHTML =　"ハーフマラソン - 1:14:49";
         document.getElementById("halfPBRace").innerHTML =　"天草マラソン 2014";
@@ -34,6 +34,8 @@ function setLanguage() {
                                     それからフルマラソンは年に1回か2回ぐらいをチャレンジして、サブスリーは10回ぐらい出来た。\
                                     2018年に第1回日本ウルトラロングディスタンストライアスロン選手権で2位だった。\
                                     今からコナを目指そう！";
+
+        document.getElementById("myGallery").innerHTML = "ギャラリー";
                                 
 
 
@@ -55,8 +57,8 @@ function setLanguage() {
 
         document.getElementById("PBs").innerHTML = "Personal Bests";
 
-        document.getElementById("marathonPB").innerHTML =　"Marathon - 2:42:31";
-        document.getElementById("marathonPBRace").innerHTML =　"Kumamoto 2015";
+        document.getElementById("marathonPB").innerHTML =　"Marathon - 2:39:03";
+        document.getElementById("marathonPBRace").innerHTML =　"Kumamoto 2019";
 
         document.getElementById("halfPB").innerHTML =　"Half Marathon 1:14:49";
         document.getElementById("halfPBRace").innerHTML =　"Amakusa 2014";
@@ -71,6 +73,7 @@ function setLanguage() {
              Since then I have completed one or two marathons per year, breaking three hours approximately ten times, and achieving a personal best of 2:42. \
         In 2018 I placed 2nd overall in the Japanese Ultra-long Distance Triathlon National Championships.";
 
+        document.getElementById("myGallery").innerHTML = "Gallery";
         
 
     }
