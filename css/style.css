@@ -257,7 +257,7 @@ header .intro-text {
 }
 #training img {
 	width: 300px;
-	box-shadow: 15px 0 #a7c44c;
+	/* box-shadow: 15px 0 #a7c44c; */
 }
 #training h3 {
 	padding: 10px 0;
