@@ -30,10 +30,15 @@ function setLanguage() {
         document.getElementById("IMPB").innerHTML =　"ウルトラロングトライアスロン - 9:49:40";
         document.getElementById("IMPBRace").innerHTML =　"五島列島国際トライアスロン 2018";
 
+        document.getElementById("IM703PB").innerHTML = "ハーフアイアンマン距離 - 4:25:37";
+        document.getElementById("IM703PBRace").innerHTML = "アイアンマン上海 70.3 2019";
+
         document.getElementById("myProfile").innerHTML = "２００１年のロンドンマラソンを完走のきっかけマラソンはずっと大好きだった。\
                                     それからフルマラソンは年に1回か2回ぐらいをチャレンジして、サブスリーは10回ぐらい出来た。\
                                     2018年に第1回日本ウルトラロングディスタンストライアスロン選手権で2位だった。\
                                     今からコナを目指そう！";
+
+        document.getElementById("coaching").innerHTML = "コーチング";
 
         document.getElementById("myGallery").innerHTML = "ギャラリー";
                                 
@@ -69,9 +74,14 @@ function setLanguage() {
         document.getElementById("IMPB").innerHTML =　"IM-distance triathlon - 9:49:40";
         document.getElementById("IMPBRace").innerHTML =　"Goto Nagasaki 2018";
 
+        document.getElementById("IM703PB").innerHTML = "70.3 Distance triathlon - 4:25:37";
+        document.getElementById("IM703PBRace").innerHTML = "Ironman 70.3 Shanghai 2019";        
+
         document.getElementById("myProfile").innerHTML = "I have had a passion for running since completing my first full marathon, The London Marathon, way back in 2001. \
              Since then I have completed one or two marathons per year, breaking three hours approximately ten times, and achieving a personal best of 2:42. \
         In 2018 I placed 2nd overall in the Japanese Ultra-long Distance Triathlon National Championships.";
+
+        document.getElementById("coaching").innerHTML = "Coaching";
 
         document.getElementById("myGallery").innerHTML = "Gallery";
         
